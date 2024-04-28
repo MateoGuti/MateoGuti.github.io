@@ -198,6 +198,10 @@ html{
     position: relative;
     z-index: 10;
 }
+.sobremi button a{
+    color: white; /* Cambia el color del texto a blanco */
+    text-decoration: none; /* Quita la línea subrayada */
+}
 .sobremi button .overlay{
     position: absolute;
     top: 0;
