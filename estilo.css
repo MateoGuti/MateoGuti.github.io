@@ -198,13 +198,7 @@ html{
     position: relative;
     z-index: 10;
 }
-<<<<<<< HEAD
-=======
-.sobremi button a{
-    color: white; /* Cambia el color del texto a blanco */
-    text-decoration: none; /* Quita la línea subrayada */
-}
->>>>>>> 4b880b31db2517a953e23e759448cee77f777f30
+
 .sobremi button .overlay{
     position: absolute;
     top: 0;
@@ -614,13 +608,11 @@ html{
     display: inline-block;
     margin-right: 20px;
 }
-<<<<<<< HEAD
+
 .contacto .col img {
     width: 15%; /* Mantener el ancho al 100% del contenedor */
     max-height: 20px; /* Establecer una altura máxima */
 }
-=======
->>>>>>> 4b880b31db2517a953e23e759448cee77f777f30
 footer{
     background-color: #252A2E;
     color: #fff;
@@ -641,25 +633,11 @@ footer .redes a{
     width: 42px;
     height: 42px;
     line-height: 42px;
-<<<<<<< HEAD
     margin: 40px 5px;
     font-size: 20px;
     transition: .3s;
 }
-=======
-    margin: 0 5px; /* Ajustamos el margen */
-    font-size: 20px;
-    transition: .3s;
-}
-footer .imagen-footer {
-    display: block;
-    margin-top: 10px; /* Ajustamos el margen superior */
-}
 
-footer .imagen-footer img {
-    width: 50px; /* Ajustamos el tamaño de la imagen */
-}
->>>>>>> 4b880b31db2517a953e23e759448cee77f777f30
 footer .arriba{
     display: block;
     width: 50px;
